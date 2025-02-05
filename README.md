@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno de informática determinado a absorver conhecimento. Tenho grande interesse em explorar novas linguagens de programação e estou totalmente focado no desenvolvimento técnico. Em constante evolução, enfrento desafios e contribuo para a comunidade. Estudo com dedicação para me tornar um desenvolvedor.
+Sou Luiz Gustavo, mais conhecido como Gusta. Finalizei o curso de Informática e agora estudo Análise e Desenvolvimento de Sistemas (ADS). Trabalho como desenvolvedor .NET na empresa SporTi. Tenho grande interesse em explorar novas linguagens de programação e estou totalmente focado no desenvolvimento técnico. Em constante evolução, enfrento desafios e contribuo para a comunidade.
 
 ### Skills ⚡
 
