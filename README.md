@@ -34,9 +34,9 @@ Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno
 
 <div>
 
-<a href="https://github.com/Lgusta11">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgusta11&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lgusta11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Lgustavo44">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgustavo44&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lgustavo44&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <hr>
